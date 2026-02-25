@@ -15,16 +15,11 @@
 
 ## 1- Idea do proxecto
 
-> _EXPLICACIÓN_: Realiza unha breve descrición do anteproxecto. Resalta o fundamental *coas túas propias palabras\*\*. Utiliza unha linguaxe correcta,*pero natural\*\*, que o entenda todo o mundo, mesmo e en especial, as persoas que non teñan un coñecemento técnico avanzado. Pode ser un estracto ou resumo de apartados que xa contemples noutros ficheiros.
+El proyecto está enfocado en la creación de un sitio web dedicado a la venta de merchandising del canal [zomly Games](https://www.youtube.com/c/zomlyGames), del cual soy propietario, ubicado en la plataforma de vídeo YouTube. Merchandising hace referencia a productos licenciados, aquellos que se venden apoyados en la marca de otro producto o servicio. En este caso, estos productos estarían apoyados por la marca de mi canal.
 
 ## 2- Contextualización
 
-> _EXPLICACIÓN_: Realiza unha contextualización que identifique as necesidades ás que dará resposta o proxecto.
->
-> Neste apartado trátase de describir a análise realizada e a toma de decisións adoptada sobre aspectos básicos ou iniciais do proxecto como:
->
-> - En que consiste o noso proxecto? Cal é o propósito principal da aplicación a desenvolver? Cales son os obxectivos?
-> - O desenvolvemento da aplicación abre unha oportunidade de negocio? É posible comercializala? Como?
+Este proyecto surge como respuesta a la necesidad del canal de publicitarse y de generar ingresos. Consistirá en un punto de venta online donde se ofrecerá a los posibles compradores productos exclusivos y únicos que contendrán el logotipo y/o nombre del canal, tales como camisetas, chapas, sudaderas, viseras, etc. De esta manera, no solo se consigue el objetivo de dar más visibilidad a la marca, si no que, a la vez, se puede convertir en una fuente pasiva de ingresos abriendo la oportunidad de negocio.
 
 ## 3- Estudio de alternativas e viabilidade
 
