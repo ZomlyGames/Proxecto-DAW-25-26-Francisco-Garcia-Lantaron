@@ -40,7 +40,7 @@ Para este proyecto se usó ... (pendiente de redactar)
 
 Soy desarrollador de aplicaciones web. Me apasiona crear sitios web y aplicaciones funcionales y bien diseñadas. Actualmente, las tecnologías que más domino y utilizo de frontend y backend son HTML, CSS, Java, JavaScript y PHP. He desarrollado varios proyectos personales y académicos que demuestran mi capacidad técnica y mi compromiso con el aprendizaje constante. La motivación de este proyecto en particular surge de querer realizar un proyecto real enfocado en mejorar algo existente (mi canal de YouTube).
 
-Para contactar conmigo puedes usar el siguiente correo electrónico [contr.1234567890@gmail.com](mailto:contr.1234567890@gmail.com) o enviarme un mensaje a través de WhatsApp al siguiente teléfono [+34 685 40 27 48](tel:685402748).
+Para contactar conmigo puedes usar el siguiente correo electrónico [contr.1234567890@gmail.com](contr.1234567890@gmail.com) o enviarme un mensaje a través de WhatsApp al siguiente teléfono +34 685 40 27 48.
 
 ## Licencia
 
