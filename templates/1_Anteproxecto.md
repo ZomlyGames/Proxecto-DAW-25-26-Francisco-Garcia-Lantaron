@@ -19,7 +19,15 @@ El proyecto está enfocado en la creación de un sitio web dedicado a la venta d
 
 ## 2- Contextualización
 
-Este proyecto surge como respuesta a la necesidad del canal de publicitarse y de generar ingresos. Consistirá en un punto de venta online donde se ofrecerá a los posibles compradores productos exclusivos y únicos que contendrán el logotipo y/o nombre del canal, tales como camisetas, chapas, sudaderas, viseras, etc. De esta manera, no solo se consigue el objetivo de dar más visibilidad a la marca, si no que, a la vez, se puede convertir en una fuente pasiva de ingresos abriendo la oportunidad de negocio.
+Este proyecto surge como respuesta a la necesidad del canal de publicitarse y de generar ingresos. Consistirá principalmente en un punto de venta online donde se ofrecerá a los posibles clientes productos exclusivos y únicos que contendrán el logotipo y/o nombre del canal, tales como camisetas, chapas, sudaderas, viseras, etc. De esta manera, no solo se consigue el objetivo de dar más visibilidad a la marca, si no que, a la vez, se puede convertir en una fuente pasiva de ingresos para el canal.
+
+Esta aplicación abrirá la oportunidad de negocio, ya que, como mencioné antes, el objetivo principal de esta es vender productos. Además, será posible comercializarla mediante estrategias relativas a las características de los productos, al precio y la competencia, a la distribución y a las estrategias de comunicación y promoción.
+
+Las estrategias relacionadas con las características de los productos se compondrán de: una variedad de artículos distintos para adaptarse a cada cliente (si solo vendiese, por ejemplo, viseras, cualquier persona que no use viseras en su vida cotidiana no estaría interesada en comprar en la web), de un precio acorde al valor de la marca (cuánto más popular sea la marca, mayores serán los precios y viceversa) y de unos materiales de buena calidad, pero a la vez asequibles. Una característica extra que también mencioné en otros apartados, pero que considero importante mencionar aquí es que la principal característica de estos productos (por encima de las anteriormente mencionadas) es que estos productos son únicos, es decir que ninguna otra persona, entidad o empresa podrá crear productos como estos, y exclusivos, ya que solo podrá existir 1 único sitio web como este y solo este podrá vender los productos.
+
+En relación a la competencia, como tal no existirá competencia de los productos en sí mismos o de la web ya que son únicos, si no que más bien sería cuestión de la competencia que suponen otros creadores de contenido similares al crecimiento de mi canal, lo cual está estrechamente relacionado con las ventas y popularidad de los propios productos.
+
+Por último, quedarían por determinar las estrategias de distribución y promoción. Estos productos se fabricarán y distribuirán mediante la contratación de los servicios de empresas de creación de merchandising/productos a medida y de empresas de reparto respectivamente. La promoción del sitio web se haría en los propios vídeos del canal de YouTube y en otras plataformas de redes sociales. También se podrían llevar a cabo ventas de productos por tiempo limitado de colaboraciones con otros creadores de contenido, entre otros métodos para publicitar la web y sus productos.
 
 ## 3- Estudio de alternativas e viabilidade
 
