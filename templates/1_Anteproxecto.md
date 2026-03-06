@@ -1,19 +1,19 @@
 # Anteproxecto
 
 - [Anteproxecto](#anteproxecto)
-  - [1- Idea do proxecto](#1--idea-do-proxecto)
+  - [1- Idea del proyecto](#1--idea-del-proyecto)
   - [2- Contextualización](#2--contextualización)
-  - [3- Estudio de alternativas e viabilidade](#3--estudio-de-alternativas-e-viabilidade)
+  - [3- Estudio de alternativas y viabilidad](#3--estudio-de-alternativas-y-viabilidad)
     - [3.1- Estudio de alternativas](#31--estudio-de-alternativas)
-    - [3.2 Xustificación da alternativa](#32-xustificación-da-alternativa)
-  - [4- Requirimentos técnicos](#4--requirimentos-técnicos)
+    - [3.2 Justificación de la alternativa](#32-justificación-de-la-alternativa)
+  - [4- Requisitos técnicos](#4--requisitos-técnicos)
   - [5- Planificación](#5--planificación)
 
 > _EXPLICACIÓN_: Este documento será a páxina de explicación de en que consiste o teu proxecto. Coida a súa redacción con todo ou teu mimo. Elimina posteriormente todas as lineas "EXPLICACIÓN" cando creas finalizada a súa redacción.
 > Podes acompañar á redacción deste ficheiro con imaxes, pero non abuses deles.
 > Explica da mellor forma posible de en que consiste o proxecto é que ferramentas e linguaxes de programación empregarás.
 
-## 1- Idea do proxecto
+## 1- Idea del proyecto
 
 El proyecto está enfocado en la creación de un sitio web dedicado a la venta de merchandising del canal [zomly Games](https://www.youtube.com/c/zomlyGames), del cual soy propietario, ubicado en la plataforma de vídeo YouTube. Merchandising hace referencia a productos licenciados, aquellos que se venden apoyados en la marca de otro producto o servicio. En este caso, estos productos estarían apoyados por la marca de mi canal.
 
@@ -29,38 +29,27 @@ En relación a la competencia, como tal no existirá competencia de los producto
 
 Por último, quedarían por determinar las estrategias de distribución y promoción. Estos productos se fabricarán y distribuirán mediante la contratación de los servicios de empresas de creación de merchandising/productos a medida y de empresas de reparto respectivamente. La promoción del sitio web se haría en los propios vídeos del canal de YouTube y en otras plataformas de redes sociales. También se podrían llevar a cabo ventas de productos por tiempo limitado de colaboraciones con otros creadores de contenido, entre otros métodos para publicitar la web y sus productos.
 
-## 3- Estudio de alternativas e viabilidade
+## 3- Estudio de alternativas y viabilidad
 
 ### 3.1- Estudio de alternativas
 
-> _EXPLICACIÓN_: Neste apartado enumerarás unha serie de alternativas que se tiveron en conta e xustificarase a alternativa elixida, razoando o motivo de rexeitamento das outras.
-> Teranse en conta os seguintes criterios de valoración para determinar a mellor alternativa:
->
-> - Técnicos.
-> - Económicos.
-> - Temporalidade.
-> - Recursos.
-> ...
->
-> **Exemplo**
->
-> Un cliente dunha clínica odontolóxica precisa unha plataforma web para rexistrar, xestionar datos dos clientes. Analizamos tres alternativas para o desenrolo:
->
-> Alternativas
->
-> - A1- Desenvolvemento dende cero con API Rest java spring Boot + HTML5 + CSS3 + javascript nativo.
-> - A2- Desenvolvemento desde cero con API Rest Node.js + HTML5 + CSS3 + javascript nativo.
-> - A3- Desenvolvemento desde cero modelo MVC en php + HTML5 + CSS3 + javascript nativo.
-> - A4- Framework larabel + React.js + Tailwind.
-> 
-> | **Alternativa** |  **Viabilidade técnica** | **Viabilidade económica** | **Temporalidade** | **Valoración Global** |
-> | ------ | ------ |  ------ | ------ | ------ |
-> | A1 | Baixa-media (4/10): contrólanse todas as tecnoloxías salvo java spring boot. Spring Boot é un framework empresarial potente, pero con una curva de aprendizaxe considerable. **Fortalezas**: Arquitectura sólida, escalabre, profesional. **Debilidades**: Curva de aprendizaxe alta, configuración complexa. | Medio (6/10): precisaríamos un hosting con soporte java e servidor de aplicacións ou ben un VPS. Custe máis elevado no hosting. O resto de SW gratuíto. | Viabilidade baixa (3/10): curva de aprendizaxe de Spring Boot. Larga duración, de 4 a 6 meses | **5/10** |
-> | A2 | Media-Alta (6/10): Node permite construír APIs REST facilmente. **Fortalezas:** Simplicidade, entorno JavaScript unificado (backend e frontend). **Debilidades:** Necesidade de estruturar ben o proxecto dende cero. | Alta (8/10): Require hosting compatible con Node.js (plataformas como Render, Railway, Verceo o Fly.io) permiten despregar de forma gratuita ou de baixo custe. | Viabilidade media (6/10): duración entre 2 meses e medio e 4. | **7/10** |
-> | A3 | Alta (9/10): non existe curva de aprendizaxe coas linguaxes seleccionadas. **Fortalezas:** Linguaxe coñecido, baixo limiar de entrada, execución rápida. **Debilidades:** Require implementar manualmente aspectos como seguridade, rutas y validacións. | Alta (9/10): Hosting compartido PHP/MySQL dende 2–5 €/mes. | Viabilidade alta (8/10): desenvolvemento e despregue rápido, de 2 a 3 meses.| **9/10** |
-> | A4 | Media (6/10): Laravel ten unha curva de aprendizaxe intermedia. React e Tailwind requiren aprendizaxe adicional. Require coñecementos do frontend moderno. **Fortalezas:** Stack profesional, mantible e modular. **Debilidades:** Exceso de complexidade para un só desarrollador sen experiencia en frameworks front. | Alta (8/10): Ferramentas gratuitas. Laravel require hosting con Composer, PHP ≥ 8 e a miudo acceso SSH. React require build e despregue separado ou integración tipo SPA servida dende Laravel. Hosting adecuados (con SSH e Composer) entre 5-10€/mes. Posible despregue gratuíto de frontend (Vercel) y backend en hosting PHP. | Viabilidade baixa (5/10): curva de aprendizaxe e configuración elevada (4-5 meses) | **5/10** |
+Mi canal de YouTube precisa un sitio web para vender merchandising a los subscriptores. Analizo tres alternativas para su desarrollo:
 
-### 3.2 Xustificación da alternativa
+Alternativas
+
+- A1- Framework Angular + Firebase + Firestore
+- A2- Framework Angular + NestJS (Backend con TypeScript)
+- A3- Desarrollo desde cero modelo MVC en php + HTML5 + CSS3 + javascript nativo.
+- A4- Desarrollo desde cero con API Rest Node.js + HTML5 + CSS3 + javascript nativo
+
+| **Alternativa** | **Viabilidad técnica** | **Viabilidad económica** | **Temporalidad** | **Valoración Global** |
+| ------ | ------ | ------ | ------ | ------ |
+| A1 | Media (5/10): Angular usa TypeScript que en pocas palabras es JavaScript pero con tipado estricto (siendo en tiempo de compilación, a diferencia de JS que es en tiempo de ejecución), por lo tanto esto sería sencillo de aprender, pero debido a que Angular cuenta con muchas funcionalidades y conceptos nuevos (componentes, subscripciones, pipes, etc) esta opción acaba teniendo una curva de aprendizaje considerable. Firebase y Firestore no tienen una curva de aprendizaje importante (no necesitas gestionar ni configurar servidores ni infraestructura).**Fortalezas**: Escalable, simplicidad en el bakckend y frontend organizado (html+css+TypeScript dividido en componentes). **Debilidades**: Curva de aprendizaxe importante. | Alta (8/10): Requiere comprar un dominio y configurarlo en Firebase Hosting, el resto de aspectos son gratuitos pero limitados hasta cierto punto (a partir de cierta cantidad de recursos que se necesiten en la web, habrá que pagar por hosting, almacenamiento, nº usuarios activos, etc). | Viabilidad media (5/10): curva de aprendizaxe de Angular. Duración entre 3 y 4 meses | **6/10** |
+| A2 | Baja (3/10): NestJS usa TypeScript, por lo tanto esto sería sencillo de aprender, pero debido a que NodeJS cuenta con funcionalidades y conceptos similares a Angular y que además esta alternativa también incluye Angular para frontend acaba teniendo una curva de aprendizaje muy elevada. **Fortalezas:** Estructura organizada tanto en frontend como en backend y también escalable. **Debilidades:** Exceso de complejidad para un solo desarrollador sin experiencia en frameworks. | Media (6/10): Herramentas gratuitas. Requiere Hosting del backend entre 5-7€/mes, adquirir dominio y certificados SSL (la Alternativa 1 no necesita SSL ya que Firebase lo proporciona gratuitamente por defecto). | Viabilidad baja (3/10): curva de aprendizaxe elevada (4-5 meses) | **4/10** |
+| A3 | Alta (9/10): non existe curva de aprendizaxe coas linguaxes seleccionadas. **Fortalezas:** Linguaxe coñecido, baixo limiar de entrada, execución rápida. **Debilidades:** Require implementar manualmente aspectos como seguridade, rutas y validacións. | Alta (9/10): Hosting compartido PHP/MySQL dende 2–5 €/mes. | Viabilidad alta (8/10): desenvolvemento e despregue rápido, de 2 a 3 meses. | **9/10** |
+| A4 | Media-Alta (6/10): Node permite construír APIs REST facilmente. **Fortalezas:** Simplicidade, entorno JavaScript unificado (backend e frontend). **Debilidades:** Necesidade de estruturar ben o proxecto dende cero. | Alta (8/10): Require hosting compatible con Node.js (plataformas como Render, Railway, Verceo o Fly.io) permiten despregar de forma gratuita ou de baixo custe. | Viabilidad media (6/10): duración entre 2 meses e medio e 4. | **7/10** |
+
+### 3.2 Justificación de la alternativa
 
 >_EXPLICACIÓN_: Tras analizar os resultados seleccionamos unha alternativa. Xustifica a elección indicando as razóns da elección.
 >
@@ -78,10 +67,9 @@ Por último, quedarían por determinar las estrategias de distribución y promoc
 >
 > - As opcións A1 (Spring Boot) e A4 (Larabel + React) resultan menos axeitadas pola súa complexidade e custo.
 
-## 4- Requirimentos técnicos
+## 4- Requisitos técnicos
 
 >_EXPLICACIÓN_: - Que tecnoloxías son as máis axeitadas para a realización do proxecto?
-
 > _EXPLICACIÓN_: Descrición dos medios materiais e das tecnoloxías necesarias que se usarán para desenvolver o proxecto incluíndo as linguaxes de programación frontend e backend, técnicas, librerías, bases de datos, servizos usados, servidores, API’s, etc.
 >
 > - **Infraestructura:** dominio web, hosting, servidor de base de datos, almacenamento, memoria, ...
