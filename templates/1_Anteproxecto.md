@@ -9,10 +9,6 @@
   - [4- Requisitos técnicos](#4--requisitos-técnicos)
   - [5- Planificación](#5--planificación)
 
-> _EXPLICACIÓN_: Este documento será a páxina de explicación de en que consiste o teu proxecto. Coida a súa redacción con todo ou teu mimo. Elimina posteriormente todas as lineas "EXPLICACIÓN" cando creas finalizada a súa redacción.
-> Podes acompañar á redacción deste ficheiro con imaxes, pero non abuses deles.
-> Explica da mellor forma posible de en que consiste o proxecto é que ferramentas e linguaxes de programación empregarás.
-
 ## 1- Idea del proyecto
 
 El proyecto está enfocado en la creación de un sitio web dedicado a la venta de merchandising del canal [zomly Games](https://www.youtube.com/c/zomlyGames), del cual soy propietario, ubicado en la plataforma de vídeo YouTube. Merchandising hace referencia a productos licenciados, aquellos que se venden apoyados en la marca de otro producto o servicio. En este caso, estos productos estarían apoyados por la marca de mi canal.
@@ -46,47 +42,43 @@ Alternativas
 | ------ | ------ | ------ | ------ | ------ |
 | A1 | Media (5/10): Angular usa TypeScript que, en pocas palabras, es JavaScript pero con tipado estricto (siendo en tiempo de compilación, a diferencia de JS, que es en tiempo de ejecución); por lo tanto, esto sería sencillo de aprender, pero debido a que Angular cuenta con muchas funcionalidades y conceptos nuevos (componentes, suscripciones, pipes, etc) esta opción acaba teniendo una curva de aprendizaje considerable. Firebase y Firestore no tienen una curva de aprendizaje importante (no necesitas gestionar ni configurar servidores ni infraestructura). **Fortalezas**: Escalable, simplicidad en el backend y frontend organizado (HTML+CSS+TypeScript dividido en componentes). **Debilidades**: Curva de aprendizaje relevante. | Alta (8/10): Requiere comprar un dominio y configurarlo en Firebase Hosting, el resto de aspectos son gratuitos, pero limitados hasta cierto punto (a partir de cierta cantidad de recursos que se necesiten en la web, habrá que pagar por hosting, almacenamiento, nº de usuarios activos, etc). | Viabilidad media (5/10): curva de aprendizaje de Angular. Duración entre 3 y 4 meses. | **6/10** |
 | A2 | Baja (3/10): NestJS usa TypeScript, por lo tanto, esto sería sencillo de aprender, pero debido a que NodeJS cuenta con funcionalidades y conceptos similares a Angular y que además esta alternativa también incluye Angular para frontend, acaba teniendo una curva de aprendizaje muy elevada. **Fortalezas:** Estructura organizada, tanto en frontend como en backend y también escalable. **Debilidades:** Exceso de complejidad para un solo desarrollador sin experiencia en frameworks. | Media (6/10): Herramientas gratuitas. Requiere hosting del backend entre 5-7 €/mes, adquirir dominio y certificados SSL (la Alternativa 1 no necesita SSL, ya que Firebase lo proporciona gratuitamente por defecto). | Viabilidad baja (3/10): curva de aprendizaje elevada (4-5 meses). | **4/10** |
-| A3 | Alta (9/10): non existe curva de aprendizaje coas linguaxes seleccionadas. **Fortalezas:** Linguaxe coñecido, baixo limiar de entrada, execución rápida. **Debilidades:** Require implementar manualmente aspectos como seguridade, rutas y validacións. | Alta (9/10): Hosting compartido PHP/MySQL dende 2–5 €/mes. | Viabilidad alta (8/10): desenvolvemento e despregue rápido, de 2 a 3 meses. | **9/10** |
-| A4 | Media-Alta (6/10): Node permite construír APIs REST facilmente. **Fortalezas:** Simplicidade, entorno JavaScript unificado (backend e frontend). **Debilidades:** Necesidade de estruturar ben o proxecto dende cero. | Alta (8/10): Require hosting compatible con Node.js (plataformas como Render, Railway, Verceo o Fly.io) permiten despregar de forma gratuita ou de baixo custe. | Viabilidad media (6/10): duración entre 2 meses e medio e 4. | **7/10** |
+| A3 | Alta (9/10): No existe curva de aprendizaje con los lenguajes seleccionados. **Fortalezas:** Lenguaje conocido, ejecución rápida. **Debilidades:** Requiere implementar manualmente aspectos como seguridad, rutas y validaciones. | Alta (9/10): Hosting compartido PHP/MySQL desde 2–5 €/mes. | Viabilidad alta (8/10): desarrollo y despliegue rápido, de 2 a 3 meses. | **9/10** |
+| A4 | Media-Alta (6/10): Node permite construir APIs REST fácilmente. **Fortalezas:** Simplicidad, entorno JavaScript unificado (backend y frontend). **Debilidades:** Necesidad de estructurar bien el proyecto desde cero. | Alta (8/10): Requiere hosting compatible con Node.js (plataformas como Render, Railway, Vercel o Fly.io) que permiten desplegar de forma gratuita o de bajo coste. | Viabilidad media (6/10): duración entre 2 meses y medio y 4. | **7/10** |
 
 ### 3.2 Justificación de la alternativa
 
->_EXPLICACIÓN_: Tras analizar os resultados seleccionamos unha alternativa. Xustifica a elección indicando as razóns da elección.
->
-> **Exemplo**
->
-> - A alternativa A3 (PHP MVC desde cero) se consolida como a máis viable globalmente, e polo tanto é a elexida xa que:
->
->   - É a máis económica (hosting moi barato).
->   - Ten mínima fricción técnica para o despregue.
->   - Permite obter un prototipo funcional en pouco tempo.
->   - Emprega tecnoloxías coñecidas polo alumno.
->   - Rapidez de desenvolvemento.
->
-> - A2 (Node.js) poderíase considerar como unha opción moderna e máis axeitada se se dispuxera de máis tempo para implementala. Permitiría ampliar os coñecementos técnicos.
->
-> - As opcións A1 (Spring Boot) e A4 (Larabel + React) resultan menos axeitadas pola súa complexidade e custo.
+- La alternativa A3 (PHP MVC desde cero) se consolida como la más viable globalmente, y por lo tanto es la elegida, ya que:
+  - Es una de las más económicas (hosting muy barato), seguida de la alternativa 1 (Angular y Firebase).
+  - Tiene mínima fricción técnica para el despliegue.
+  - Permite obtener un prototipo funcional en poco tiempo.
+  - Utiliza tecnologías conocidas por mi.
+  - Rápidez de desarrollo.
+
+- La A1 y la A2 serían buenas opciones para poner en práctica lo que voy aprendiendo durante las prácticas en empresa, pero resulta menos adecuada debido a la complejidad de estas. Y en el caso de la A2, requeriría de un mayor coste.
+
+- La A4 (Node.js) se podría considerar como una opción moderna y más adecuada si se dispusiera de más tiempo para implementarla. Permitiría ampliar los conocimientos técnicos.
 
 ## 4- Requisitos técnicos
 
->_EXPLICACIÓN_: - Que tecnoloxías son as máis axeitadas para a realización do proxecto?
-> _EXPLICACIÓN_: Descrición dos medios materiais e das tecnoloxías necesarias que se usarán para desenvolver o proxecto incluíndo as linguaxes de programación frontend e backend, técnicas, librerías, bases de datos, servizos usados, servidores, API’s, etc.
->
-> - **Infraestructura:** dominio web, hosting, servidor de base de datos, almacenamento, memoria, ...
-> - **Backend:** tecnoloxías usadas.
-> - **Frontend:** tecnoloxías usadas
+Para la realización del proyecto, las tecnologías que considero más adecuadas y que usaré en el proyecto son:
+
+- **Infraestructura:** Para dominio web, hosting, etc, será Hostinger (trae dominio gratis, 50 GB de espacio SSD, SSL gratuito, etc). El servidor web será Apache; el servidor de base de datos será MariaDB.
+- **Backend:** PHP.
+- **Frontend:** HTML, CSS, JavaScript.
+
+Otras tecnologías necesarias que se usarán para desarrollar el proyecto son: Git, Visual Studio Code, Windows 10 (lo estoy usando para, por ejemplo, redactar el anteproyecto ahora mismo) y Linux (lo usaré para la codificación), Internet, Docker, phpMyAdmin, php-fpm, Figma y Lucidchart.
+En cuanto a medios materiales, estos estarán compuestos de un ordenador, ratón, teclado, folios y un bolígrafo (para hacer bocetos o anotar cosas), entre otros elementos comunes presentes en la mayoría de hogares.
 
 ## 5- Planificación
 
-> _EXPLICACIÓN_: Inclúe un calendario co tempo estimado a adicar a cada fase do proxecto.
->
-> O proxecto estará formado polas seguintes fases:
->
-> - Estudo preliminar
-> - Análise
-> - Deseño
-> - Codificación e probas (debe ser a fase máis longa).
->
-> Debe facerse un calendario ou un diagrama de Gantt indicando, para cada fase, a data de inicio, a súa duración e breve descrición das tarefas a realizar.
+El proyecto estará formado por las siguintes fases:
+
+- Estudio preliminar.
+- Análisis.
+- Diseño.
+- Codificación y pruebas.
+
+El diagrama de Gantt es el siguiente:
+![Diagrama de Gantt](../doc/img/diagrama-de-gantt.jpeg)
 
 [**<-Anterior**](../README.md)
