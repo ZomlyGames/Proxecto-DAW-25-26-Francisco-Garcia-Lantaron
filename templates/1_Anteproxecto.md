@@ -29,7 +29,7 @@ Por último, quedarían por determinar las estrategias de distribución y promoc
 
 ### 3.1- Estudio de alternativas
 
-Mi canal de YouTube precisa un sitio web para vender merchandising a los subscriptores. Analizo tres alternativas para su desarrollo:
+Mi canal de YouTube precisa un sitio web para vender merchandising a los subscriptores. Analizo 4 alternativas para su desarrollo:
 
 Alternativas
 
