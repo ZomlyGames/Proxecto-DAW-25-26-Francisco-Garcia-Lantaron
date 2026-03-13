@@ -62,7 +62,7 @@ Alternativas
 
 Para la realización del proyecto, las tecnologías que considero más adecuadas y que usaré en el proyecto son:
 
-- **Infraestructura:** Para dominio web, hosting, etc, será Hostinger (trae dominio gratis, 50 GB de espacio SSD, SSL gratuito, etc). El servidor web será Apache; el servidor de base de datos será MariaDB.
+- **Infraestructura:** Para dominio web, hosting, etc, será Hostinger: dominio gratis, 20 GB de almacenamiento, 2GB de RAM, servidor web apache, MariaDB como base de datos, 1 CPU, SSL gratuito, etc que cubre las características necesarias para el despliegue real del proyecto.
 - **Backend:** PHP.
 - **Frontend:** HTML, CSS, JavaScript.
 
@@ -71,14 +71,17 @@ En cuanto a medios materiales, estos estarán compuestos de un ordenador, ratón
 
 ## 5- Planificación
 
-El proyecto estará formado por las siguintes fases:
+La planificación del proyecto estará formada por las siguintes fases:
 
-- Estudio preliminar.
-- Análisis.
-- Diseño.
-- Codificación y pruebas.
+- Un estudio preliminar de los costes que va a llevar, requisitos técnicos, etc.
+- Un análisis tanto del mercado (competencia, costes, ingresos, valor del producto, ...) como de las funcionalidades y estructura dle sistema del proyecto.
+- Realización del diseño de cómo será la web, la base de datos, la arquitectura, ... .
+- Creación de la vista del usuario (HTML y CSS).
+- Programación de la parte de JavaScript, una vez se tiene hecha la fase anterior.
+- Programación de la parte de acceso a datos (PHP) y bases de datos.
+- Por último, probar que todo vaya bien, desplegar el proyecto, etc.
 
-El diagrama de Gantt es el siguiente:
+El diagrama de Gantt, que representa de manera visual las fases mencionadas, es el siguiente:
 ![Diagrama de Gantt](../doc/img/diagrama-de-gantt.jpeg)
 
 [**<-Anterior**](../README.md)
