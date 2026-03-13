@@ -73,7 +73,7 @@ En cuanto a medios materiales, estos estarán compuestos de un ordenador, ratón
 
 La planificación del proyecto estará formada por las siguintes fases:
 
-- Un estudio preliminar de los costes que va a llevar, requisitos técnicos, etc.
+- Un estudio preliminar de las diferentes opciones de herramientas que se pueden usar, requisitos técnicos, etc.
 - Un análisis tanto del mercado (competencia, costes, ingresos, valor del producto, ...) como de las funcionalidades y estructura dle sistema del proyecto.
 - Realización del diseño de cómo será la web, la base de datos, la arquitectura, ... .
 - Creación de la vista del usuario (HTML y CSS).
