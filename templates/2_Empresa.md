@@ -27,17 +27,39 @@ También se ofrece un producto aumentado, que sería el envío a domicilio de lo
 
 ## 1.2- Justificación de la idea
 
-> _EXPLICACIÓN_: Neste apartado incluirase a información necesaria para xustificar a realización do proxecto. Debe indicarse como xurdiu a idea do proxecto, que obxectivo se persegue coa súa posta en marcha e/ou que problema vai resolver.
->
-> En este apartado indicade a nivel de idea de negocio:
->
-> - ¿Cal é a necesidade ou necesidades que se pretenden cubrir ou satisfacer?
-> - ¿Existen na actualidade aplicacións ou productos que tenten dar resposta a esa(s) necesidade(s)? ¿En que medida o conseguen?
-> - ¿Trátase de un segmento de mercado desabastecido ou insuficientemente atendido?
-> - ¿Un produto ineficiente? Un mercado novo?
->
-> Para sustentar as xustificación deberás proporcionar datos. Fontes máis utilizadas: INE, IGE, Informes sectoriais de
-> Industria, Statista... Deberás facer unha DAFO.
+La idea de este proyecto surgió mientras pensaba ideas para crear webs que pudiesen serme útiles, ya sea en la actualidad o a futuro, basadas en actividades que hacía o hago. Tenía otras ideas también en mente, como crear un sitio web que sirviese como wiki de un videojuego donde los jugadores pudiesen consultar información de utilidad, pero todas las otras ideas que se me ocurrieron o estaban relacionadas con videojuegos o no eran ideas de negocio (o las dos cosas), así que acabé optando por escoger la opción de la que estoy haciendo ahora el proyecto.
+
+El objetivo que se quiere conseguir con la idea de este proyecto es, obviamente, generar ingresos y también promover el canal y generar mayor visibilidad.
+
+- ¿Cuál es la necesidad o necesidades que se pretenden cubrir o satisfacer?
+Las necesidades que se pretenden cubrir son las mencionadas anteriormente: promover el canal, darle mayor visibilidad y aportar mayores beneficios.
+- ¿Existen en la actualidad aplicaciones o productos que intenten dar respuesta a esa(s) necesidad(es)? ¿En qué medida lo consiguen?
+Sí existen varias alternativas que no requerirían crear una web para vender productos personalizados, sino que ya permiten crear tu tienda online fácilmente y ellos se encargan de gestionarlo. Algunos ejemplos que busqué son: [Spreadshop](https://www.spreadshop.com/), [Teespring](https://teespring.com/), [Shopify](https://www.shopify.com/es-es), [WooCommerce](https://woocommerce.com/es/).... Aunque estas plataformas sean alternativas viables, hay que tener en cuenta que incluyen un coste económico añadido al coste que ya había antes de la compra y distribución de los productos, por lo que desde el aspecto económico no son tan buenas alternativas, además de que la personalización es probable que sea limitada.
+- ¿Se trata de un segmento de mercado desabastecido o insuficientemente atendido?
+Se trata de un segmento desabastecido, ya que mi canal no cuenta con productos oficiales que representen mi marca.
+- ¿Un producto ineficiente? ¿Un mercado nuevo?
+Consiste en un mercado nuevo.
+
+Según [Gitnux](https://gitnux.org/creator-economy-statistics/), el mercado global de la economía de creadores está en expansión. Solo en YouTube ya hay más de 207 millones de creadores de contenido y actualmente el valor de la economía de los creadores de contenido es de 250 mil millones de dólares que se estima alcanzará cerca del medio billón de dólares para 2027, lo que indica un interés creciente en productos asociados a influencers y a ver contenido en plataformas de redes sociales. Y si miramos las estadísticas solo en España, una gran cantidad de gente usa plataformas de videos como YouTube; esto se puede ver en [Statista](https://www.statista.com/global-consumer-survey/tool/10/gcs_esp_202304?heatmap=0&missing=0&tgeditor=0&pendo=0&token=0&index=0&absolute=0&population=1&rows%5B0%5D=v0443_inte_social). Concretamente en Galicia, según [Amtega](https://amtega.xunta.gal/es/noticia/galicia-incrementa-el-numero-de-usuarios-de-internet-en-mas-de-113100-personas-en-los), más de un 67% de la población gallega compra online.
+
+La DAFO es la siguiente:
+
+- Fortalezas (F)
+  - Control total sobre la web.
+  - Ahorro de costes al crear la web.
+  - Productos únicos.
+- Debilidades (D)
+  - Ser un canal pequeño.
+  - Dependencia de los algoritmos de YouTube y tendencias para la promoción del canal (lo que repercute en el nº de personas interesadas en los productos).
+  - Dependencia de servicios de terceros (creación de los productos y envío de estos).
+- Oportunidades (O)
+  - Aumento de usuarios en plataformas de redes sociales.
+  - Crecimiento de la economía a nivel global relacionada con los creadores de contenido.
+  - Colaboraciones con otros creadores de contenido.
+- Amenazas (A)
+  - Competencia con otros creadores de contenido.
+  - Bloqueos y sanciones de YouTube (infringir las normas, políticas, shadow bans, etc).
+  - Robo de la identidad de mi canal para realizar actos delictivos u obtener beneficios a costa mía.
 
 ## 1.3- Segmento de clientes
 
