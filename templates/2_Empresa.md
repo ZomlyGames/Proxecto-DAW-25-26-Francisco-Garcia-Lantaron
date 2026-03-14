@@ -63,12 +63,8 @@ La DAFO es la siguiente:
 
 ## 1.3- Segmento de clientes
 
-> _EXPLICACIÓN_: Neste apartado debes indicar a quen irá dirixido o negocio, os potenciales clientes, respostando as seguinte pregunta: ¿A quen está dirixido?
->
-> Debes:
->
-> - Indicar o segmento ou segmentos cos rasgos principais e cuantificar o mercado.
-> - E se é o caso, diferenciar entre usuario e cliente.
+Este negocio está dirigido a los visitantes, fans y suscriptores o posibles suscriptores de mi canal de YouTube. Este segmento se caracteriza principalmente por ser de una franja de edad joven.
+De las personas a las que va dirigido el negocio, los clientes serían los suscriptores, fans y personas que hayan comprado algún producto, ya que han realizado una acción específica que indica un compromiso con mi canal. En cambio, los usuarios estarían compuestos de cualquier persona que visite la web.
 
 ## 1.4- Competencia
 
